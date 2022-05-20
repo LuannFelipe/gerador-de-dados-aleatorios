@@ -1,0 +1,3 @@
+C:/Users/luann/CLionProjects/geradorDados/cmake-build-debug/CMakeFiles/geradorDados.dir
+C:/Users/luann/CLionProjects/geradorDados/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luann/CLionProjects/geradorDados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
