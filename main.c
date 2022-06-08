@@ -8,8 +8,8 @@ int main() {
     //Nome do arquivo txt para salvar os dados
     char arquivo[] = {"dados.txt"};
 
-    //Quantidade de dados gerados
-    int qtd = 10;
+    //Quantidade de dados g'erados
+    int qtd = 10000;
 
     //Criar o arquivo txt
     FILE *dataFile = fopen(arquivo, "w");
@@ -29,7 +29,8 @@ int main() {
         //loop para escrever cada dado no arquivo
         for(int i = 0; i < qtd; i++)
         {
-            fprintf(dataFile,"%d\n", rand());
+
+            fprintf(dataFile,"%d\n",rand());
         }
 
         //fechar o arquivo
